@@ -10,6 +10,11 @@ He/Him
 
 - Currently, Pursuing [Full Stack Data Science Program](https://www.almabetter.com/courses/full-stack-data-science) from [AlmaBetter Edutech Private Limited](https://www.almabetter.com/)
 
+- Scored 67.37% (404.22 marks out of 600 marks) in Programming Section (using Python Programming Language) in [TCS NQT - IT Test](https://ajaythakur3369.github.io/documents/TCS_NQT_IT_Score_Card.pdf) conducted by [Tata Consultancy Services](https://www.tcs.com/) on April 2023. View the [Score Card of TCS NQT - IT Test](https://ajaythakur3369.github.io/documents/TCS_NQT_IT_Score_Card.pdf) 
+and [TCS NQT - Psychometric Test](https://ajaythakur3369.github.io/documents/TCS_NQT_Psychometric_Score_Card.pdf) also
+
+- Secured Second Position in MNIT Run - 2018 conducted by [Malaviya National Institute of Technology Jaipur Alumni Association](https://alumni.mnit.ac.in/) on 25 February 2018 among ~ 500 Participants, in the category of 14 km. View [Achievement](https://ajaythakur3369.github.io/documents/MNIT_Run_2018_Achievement.pdf)
+
 - Built a Web Application, for Authentically Track Student Progress, so the point of keeping it maintained is to track your
 growth. Implemented by using HTML, CSS and JavaScript from September 2022 - October 2022. View [Project](https://github.com/ajaythakur3369/ajaythakur3369.github.io) 
 
