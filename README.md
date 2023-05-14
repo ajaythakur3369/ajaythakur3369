@@ -21,9 +21,9 @@ and [TCS NQT - Psychometric Test](https://ajaythakur3369.github.io/documents/TCS
 growth. Implemented by using HTML, CSS and JavaScript from September 2022 - October 2022. View [Project](https://github.com/ajaythakur3369/ajaythakur3369.github.io) 
 
 - Graduated from [Indian Institute of Information Technology Kota](https://iiitkota.ac.in/) with Bachelor of Technology in [Electronics and Communication Engineering](https://files.iiitkota.ac.in/pdf/ECE_UG_Syllabus_2021_New.pdf) from July 2016 to May 2020. View the [Degree of Bachelor
-of Technology](https://ajaythakur3369.github.io/documents/Bachelor_of_Technology.pdf) along with all the [Gradesheets of the  graduation](https://ajaythakur3369.github.io/documents/Gradesheets_of_the_graduation.pdf)
+of Technology](https://ajaythakur3369.github.io/documents/Degree_of_Bachelor_of_Technology.pdf) along with all the [Gradesheets of the  graduation](https://ajaythakur3369.github.io/documents/Gradesheets_of_the_graduation.pdf)
   
-- Completed [Thesis](https://ajaythakur3369.github.io/documents/Report.pdf) on [Object Identification RADAR System using Super Sonic Sensor for Embedded Systems](https://ajaythakur3369.github.io/documents/Report.pdf) under the guidance of Asst. Prof. [Ashok Kherodia](https://iiitkota.ac.in/faculty/608533787fb8f4001564e19a) from December 2018 to December 2019. View  [Report](https://ajaythakur3369.github.io/documents/Report.pdf)
+- Completed [Thesis](https://ajaythakur3369.github.io/documents/Thesis_Report_of_Bachelor_of_Technology.pdf) on [Object Identification RADAR System using Super Sonic Sensor for Embedded Systems](https://ajaythakur3369.github.io/documents/Thesis_Report_of_Bachelor_of_Technology.pdf) under the guidance of Asst. Prof. [Ashok Kherodia](https://iiitkota.ac.in/faculty/608533787fb8f4001564e19a) from December 2018 to December 2019. View  [Report](https://ajaythakur3369.github.io/documents/Thesis_Report_of_Bachelor_of_Technology.pdf)
 
  - Completed Higher Secondary School Certificate Examination with Science and Mathematics from [M P Convent H.S.School, Baadi, Raisen](https://mpconventschool.com/) (Board of Secondary Education, Madhya Pradesh, Bhopal) from July 2013 to April 2014. View [Marksheet](https://ajaythakur3369.github.io/documents/Higher_Secondary_School_Certificate_Examination.pdf)
 
