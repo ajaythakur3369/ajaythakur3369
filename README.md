@@ -8,7 +8,7 @@ He/Him
 
 ### 🌱 What do I do and What have I done? 
 
-- Currently, Pursuing [Full Stack Data Science Program](https://www.almabetter.com/courses/full-stack-data-science) from [AlmaBetter Edutech Private Limited](https://www.almabetter.com/)
+- Currently, I am a Data Science Trainee at [AlmaBetter Edutech Private Limited](https://www.almabetter.com/)
 
 - Scored 85% in World Bank Global Education Analysis Capstone Project - EDA. View [Project](https://github.com/ajaythakur3369/World-Bank-Global-Education-Analysis), [Report](https://ajaythakur3369.github.io/documents/Report_of_Capstone_Project_EDA_of_World_Bank_Global_Education_Analysis.pdf) and [Presentation](https://ajaythakur3369.github.io/documents/Presentation_of_World_Bank_Global_Education_Analysis_Project.pdf), with the [Certificate of World Bank Global Education Analysis Capstone Project - EDA](https://certificates.almabetter.com/en/verify/00109211078827), Verified by [AlmaBetter Edutech Private Limited](https://www.almabetter.com/) on 14 May 2023
 
