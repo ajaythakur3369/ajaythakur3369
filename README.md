@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ajay Thakur, I'm a Data Science Trainee at [AlmaBetter Edutech Pvt. Ltd.](https://www.almabetter.com/). I graduated from [Indian Institute of Information Technology Kota](https://iiitkota.ac.in/) with the degree of Bachelor of Technology in [Electronics and Communication Engineering](https://files.iiitkota.ac.in/pdf/ECE_UG_Syllabus_2021_New.pdf).  
+I'm Ajay Thakur, I'm a Data Science Trainee at [AlmaBetter Edutech Pvt. Ltd.](https://www.almabetter.com/). I graduated from [Indian Institute of Information Technology Kota](https://iiitkota.ac.in/) with the degree of [Bachelor of Technology](https://ajaythakur3369.github.io/documents/Degree_of_Bachelor_of_Technology.pdf) in [Electronics and Communication Engineering](https://files.iiitkota.ac.in/pdf/ECE_UG_Syllabus_2021_New.pdf).  
 I have a keen interest in Machine Learning, Deep Learning and Data Analytics.
 
 ### 😄 Pronouns
