@@ -8,7 +8,7 @@ He/Him
 
 ### 🌱 What do I do and What have I done? 
 
-- Currently, I am a Data Science Trainee at [AlmaBetter Edutech Private Limited](https://www.almabetter.com/)
+- *Jan 2023-Present*: Data Science Trainee at AlmaBetter Edutech Pvt. Ltd.
 
 - *14 May 2023*: Scored 85% in Capstone Project (EDA), World Bank Global Education Analysis organised by AlmaBetter Edutech Pvt. Ltd. View [Achievement](https://certificates.almabetter.com/en/verify/00109211078827)
 
