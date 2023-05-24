@@ -14,7 +14,7 @@ He/Him
 
 - *Apr 14, 2023*: Scored **404.22/600** marks in **Programming Section** in **TCS NQT-April 2023** organised by Tata Consultancy Services. View [Achievement](https://ajaythakur3369.github.io/documents/TCS_NQT_IT_Score_Card.pdf)
 
-- *Mar 18, 2023*: Scored **97%** in **Overall Python Competency Test** organised by AlmaBetter Edutech Pvt. Ltd. This test has 75 number of questions with 1 hour time duration. View [Achievement](https://certificates.almabetter.com/en/verify/76287277015751) 
+- *Mar 18, 2023*: Scored **97%** in **Overall Python Competency Test** organised by AlmaBetter Edutech Pvt. Ltd. This test contains 75 number of questions with 1 hour time duration. View [Achievement](https://certificates.almabetter.com/en/verify/76287277015751) 
   
  - *Jul 2016-May 2020*: Graduated from Indian Institute of Information Technology Kota with B. Tech. in Electronics and Communication Engineering, CPI 5.99/10.00. View the [Degree of Bachelor
 of Technology](https://ajaythakur3369.github.io/documents/Degree_of_Bachelor_of_Technology.pdf) along with all the [Gradesheets of the  graduation](https://ajaythakur3369.github.io/documents/Gradesheets_of_the_graduation.pdf)
