@@ -16,7 +16,7 @@ He/Him
 
 - *18 Mar '23*: Scored **97%** in **Overall Python Competency Test** organised by AlmaBetter Edutech Pvt. Ltd. This test has 75 number of questions with 1 hour time duration. View [Achievement](https://certificates.almabetter.com/en/verify/76287277015751) 
   
- - *Jul '16-May '20*: Graduated from Indian Institute of Information Technology Kota with B. Tech. in Electronics and Communication Engineering, CPI 5.99/10. View the [Degree of Bachelor
+ - *Jul '16-May '20*: Graduated from Indian Institute of Information Technology Kota with B. Tech. in Electronics and Communication Engineering, CPI 5.99/10.00 View the [Degree of Bachelor
 of Technology](https://ajaythakur3369.github.io/documents/Degree_of_Bachelor_of_Technology.pdf) along with all the [Gradesheets of the  graduation](https://ajaythakur3369.github.io/documents/Gradesheets_of_the_graduation.pdf)
 
  - *Feb '19-Dec '19*: Completed Thesis on ''Object Identification RADAR System using Super Sonic Sensor for Embedded Systems'', under the guidance of Asst. Prof. Ashok Kherodia. View  [Report of the Thesis](https://ajaythakur3369.github.io/documents/Thesis_Report_of_Bachelor_of_Technology.pdf)
