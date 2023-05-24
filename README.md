@@ -10,7 +10,7 @@ He/Him
 
 - *Jan 2023-Present*: Data Science Trainee at AlmaBetter Edutech Pvt. Ltd.
 
-- *14 May, 2023*: Scored **85%** in **Capstone Project (EDA)**, World Bank Global Education Analysis organised by AlmaBetter Edutech Pvt. Ltd. View [Achievement](https://certificates.almabetter.com/en/verify/00109211078827)
+- *May 14, 2023*: Scored **85%** in **Capstone Project (EDA)**, World Bank Global Education Analysis organised by AlmaBetter Edutech Pvt. Ltd. View [Achievement](https://certificates.almabetter.com/en/verify/00109211078827)
 
 - *Apr 14, 2023*: Scored **404.22/600** marks in **Programming Section** in **TCS NQT-April 2023** organised by Tata Consultancy Services. View [Achievement](https://ajaythakur3369.github.io/documents/TCS_NQT_IT_Score_Card.pdf)
 
