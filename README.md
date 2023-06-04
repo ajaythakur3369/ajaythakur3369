@@ -8,6 +8,8 @@ He/Him
 
 ### 🌱 What do I do and What have I done? 
 
+- *May 29, 2023-Present*: Selected as a Campus Ambassador for Vista 2023, IIM Bangalore’s International Business Summit organised by Indian Institute of Management (IIM), Bangalore among 458 applicants
+
 - *Jan 2023-Present*: Data Science Trainee at AlmaBetter Edutech Pvt. Ltd.
 
 - *May 14, 2023*: Scored **85%** in **Capstone Project (EDA)**, World Bank Global Education Analysis organised by AlmaBetter Edutech Pvt. Ltd. View [Achievement](https://certificates.almabetter.com/en/verify/00109211078827)
