@@ -32,6 +32,8 @@ of Technology](https://ajaythakur3369.github.io/documents/Degree_of_Bachelor_of_
 - *Mar 2010*: Secured **Second Position** in **High School Certificate Examination-2010** in the class, in a batch of 109 students. View [Achievement](https://ajaythakur3369.github.io/documents/High_School_Certificate_Examination.pdf) 
 
 - *Jul 2009-Mar 2010*: Completed High School Certificate Examination with Science & Mathematics from M P Convent H.S.School, Baadi, Raisen (Board of Secondary Education, Madhya Pradesh, Bhopal), 90.00%. View [Marksheet](https://ajaythakur3369.github.io/documents/High_School_Certificate_Examination.pdf)
+ 
+- *Oct 15, 2010-Jan 10, 2010*: Selected as a Monitor of the Class for High School Certificate Examination-2010, by M P Convent H.S.School, Baadi, Raisen, in a batch of 109 students out of 11 applicants
 
 ### ⚡ One line that describes me best? 
 An ambitious boy who loves, day dream at nights and sometime codes too.😉😉
