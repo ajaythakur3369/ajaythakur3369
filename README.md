@@ -8,11 +8,13 @@ He/Him
 
 ### 🌱 What do I do and What have I done? 
 
+- *Jun 10, 2023-Present*: Machine Learning Intern at Suvidha Foundation (Suvidha Mahila Mandal)
+
 - *Jun 6, 2023*: Scored **95%** in **Overall Machine Learning Competency Test** organised by AlmaBetter Edutech Pvt. Ltd. It contains 100 number of questions with 1 hour time duration. View [Achievement](https://certificates.almabetter.com/en/verify/76287277015751)
 
 - *May 29, 2023-Present*: Selected as a Campus Ambassador for IIM Bangalore’s Annual International Business Summit VISTA 2023, organised by Indian Institute of Management (IIM), Bangalore among 458 applicants
 
-- *Jan 2023-Present*: Data Science Trainee at AlmaBetter Edutech Pvt. Ltd.
+- *Jan 26, 2023-Present*: Data Science Trainee at AlmaBetter Edutech Pvt. Ltd.
 
 - *May 14, 2023*: Scored **85%** in **Capstone Project (EDA)**, World Bank Global Education Analysis organised by AlmaBetter Edutech Pvt. Ltd. View [Achievement](https://certificates.almabetter.com/en/verify/00109211078827)
 
