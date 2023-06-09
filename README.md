@@ -16,8 +16,6 @@ He/Him
 
 - *May 14, 2023*: Scored **85%** in **Capstone Project (EDA)**, World Bank Global Education Analysis organised by AlmaBetter Edutech Pvt. Ltd. View [Achievement](https://certificates.almabetter.com/en/verify/00109211078827)
 
-- *Apr 14, 2023*: Scored **404.22/600** marks in **Programming Section** in **TCS NQT-April 2023** organised by Tata Consultancy Services. View [Achievement](https://ajaythakur3369.github.io/documents/TCS_NQT_IT_Score_Card.pdf)
-
 - *Mar 19, 2023*: Scored **77%** in **Overall Machine Learning Competency Test** organised by AlmaBetter Edutech Pvt. Ltd. It contains 100 number of questions with 1 hour time duration. View [Achievement](https://certificates.almabetter.com/en/verify/26954260993999)
 
 - *Mar 18, 2023*: Scored **97%** in **Overall Python Competency Test** organised by AlmaBetter Edutech Pvt. Ltd. It contains 75 number of questions with 1 hour time duration. View [Achievement](https://certificates.almabetter.com/en/verify/76287277015751) 
