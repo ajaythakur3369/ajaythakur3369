@@ -3,52 +3,6 @@
 I'm Ajay Thakur, I'm a Data Science Trainee at [AlmaBetter Edutech Pvt. Ltd.](https://www.almabetter.com/) I graduated from [Indian Institute of Information Technology Kota](https://iiitkota.ac.in/) with the degree of [Bachelor of Technology](https://ajaythakur3369.github.io/documents/Degree_of_Bachelor_of_Technology.pdf) in [Electronics and Communication Engineering](https://files.iiitkota.ac.in/pdf/ECE_UG_Syllabus_2021_New.pdf).  
 I have a keen interest in Machine Learning, Deep Learning and Data Analytics.
 
-### 😄 Pronouns
-He/Him
-
-### 🌱 What do I do and What have I done? 
-
-- *Jun 10, 2023-Present*: Machine Learning Intern at Suvidha Foundation (Suvidha Mahila Mandal)
-
-- *May 29, 2023-Present*: Selected as a Campus Ambassador for IIM Bangalore’s Annual International Business Summit VISTA 2023, organised by Indian Institute of Management (IIM), Bangalore among 458 applicants
-
-- *Jan 26, 2023-Present*: Data Science Trainee at AlmaBetter Edutech Pvt. Ltd.
-
-- *May 14, 2023*: Scored **85%** in **Capstone Project (EDA)**, World Bank Global Education Analysis organised by AlmaBetter Edutech Pvt. Ltd. View [Achievement](https://certificates.almabetter.com/en/verify/00109211078827)
-
-- *Mar 19, 2023*: Scored **77%** in **Overall Machine Learning Competency Test** organised by AlmaBetter Edutech Pvt. Ltd. It contains 100 number of questions with 1 hour time duration. View [Achievement](https://certificates.almabetter.com/en/verify/26954260993999)
-
-- *Mar 18, 2023*: Scored **97%** in **Overall Python Competency Test** organised by AlmaBetter Edutech Pvt. Ltd. It contains 75 number of questions with 1 hour time duration. View [Achievement](https://certificates.almabetter.com/en/verify/76287277015751) 
-  
- - *Jul 2016-May 2020*: Graduated from Indian Institute of Information Technology Kota with B. Tech. in Electronics and Communication Engineering, CPI 5.99/10.00. View the [Degree of Bachelor
-of Technology](https://ajaythakur3369.github.io/documents/Degree_of_Bachelor_of_Technology.pdf) along with all the [Gradesheets of the  graduation](https://ajaythakur3369.github.io/documents/Gradesheets_of_the_graduation.pdf)
-
- - *Feb 2019-Dec 2019*: Completed Thesis on ''Object Identification RADAR System using Super Sonic Sensor for Embedded Systems'', under the guidance of Asst. Prof. Ashok Kherodia. View  [Report of the Thesis](https://ajaythakur3369.github.io/documents/Thesis_Report_of_Bachelor_of_Technology.pdf)
-
-- *Feb 25, 2018*: Secured **Second Position** in Malaviya National Institute of Technology Jaipur **(MNIT) Run-2018** among 500 participants, in the category of 14 km. View [Achievement](https://ajaythakur3369.github.io/documents/MNIT_Run_2018_Achievement.pdf)
-
-- *Apr 2016*: Secured **All India Rank 16932** in **JEE Main-2016** among 1.2 million candidates
-
-- *Jul 2013-Apr 2014*: Completed Higher Secondary School Certificate Examination with Science & Mathematics from M P Convent H.S.School, Baadi, Raisen (Board of Secondary Education, Madhya Pradesh, Bhopal), 77.60%. View [Marksheet](https://ajaythakur3369.github.io/documents/Higher_Secondary_School_Certificate_Examination.pdf) 
-
-- *Mar 2010*: Secured **Second Position** in **High School Certificate Examination-2010** in the class, in a batch of 109 students. View [Achievement](https://ajaythakur3369.github.io/documents/High_School_Certificate_Examination.pdf) 
-
-- *Jul 2009-Mar 2010*: Completed High School Certificate Examination with Science & Mathematics from M P Convent H.S.School, Baadi, Raisen (Board of Secondary Education, Madhya Pradesh, Bhopal), 90.00%. View [Marksheet](https://ajaythakur3369.github.io/documents/High_School_Certificate_Examination.pdf)
- 
-- *Oct 15, 2009-Jan 10, 2010*: Selected as a Monitor of the Class for High School Certificate Examination-2010, by M P Convent H.S.School, Baadi, Raisen, in a batch of 109 students out of 11 applicants
-
-### ⚡ One line that describes me best? 
-An ambitious boy who loves, day dream at nights and sometime codes too.😉😉
-
-### 📫 Here's how to reach me:  
-
-- [2016kuec2026@iiitkota.ac.in](mailto:2016kuec2026@iiitkota.ac.in)
-- [ajaythakur3369@gmail.com](mailto:ajaythakur3369@gmail.com)
-- [Website](https://ajaythakur3369.github.io/) 
-- [LinkedIn](https://www.linkedin.com/in/ajay-thakur-b51359265/) 
-
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaythakur3369&show_icons=true&locale=en" alt="ajaythakur3369" /></p>
 
 <!--
