@@ -2,7 +2,7 @@
 
 I am Ajay Thakur, a student at IIT Madras. I joined Goldman Sachs as a Data Analyst this year.
 
-I have a keen interest in Machine Learning, Deep Learning and Data Analytics.
+I have a keen interest in Machine Learning, Deep Learning, and Data Analytics.
 
 You can find more about me [here]() or reach out to me via [LinkedIn](https://www.linkedin.com/in/ajay-thakur-b51359265/) or [Facebook](https://www.facebook.com/profile.php?id=100089913768674) 
 
