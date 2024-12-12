@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ajay Thakur, a student at IIT Madras. I joined Goldman Sachs as an Analyst this year.
+I am Ajay Thakur, a self-taught student at IIT Madras. I joined Goldman Sachs as an Analyst this year.
 
 I have a keen interest in Machine Learning, Deep Learning, and Data Analytics.
 
