@@ -6,6 +6,8 @@ I have a keen interest in Machine Learning, Deep Learning, and Data Analytics.
 
 I love my bicycle, "Dariya (दरिया)" which has traveled the world with me.
 
+The best part of my life is my cherished childhood memories.
+
 You can find more about me [here]() or reach out to me via [LinkedIn](https://www.linkedin.com/in/ajay-thakur-b51359265/) or [Facebook](https://www.facebook.com/profile.php?id=100089913768674) 
 
 ---
