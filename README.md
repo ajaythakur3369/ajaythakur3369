@@ -4,7 +4,7 @@ I am Ajay Thakur (अजय ठाकुर), a self-taught student at IIT Madra
 
 I have a keen interest in Machine Learning, Deep Learning, and Data Analytics.
 
-I love my bicycle, "Dariya (दरिया)" which has traveled the world with me.
+I love my bicycle, Resp. "Dariya (दरिया)" which has traveled the world with me.
 
 The best part of my life is my cherished childhood memories.
 
