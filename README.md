@@ -1,6 +1,6 @@
-### Hi there 👋
+### Jai Hind, Everyone! 👋
 
-I am Ajay Thakur (अजय ठाकुर), a self-taught student at IIT Madras. I joined Goldman Sachs as an Analyst this year.
+I'm Ajay Thakur (अजय ठाकुर), a student at IIT Madras and an Associate at Goldman Sachs, also a proud NCC Cadet who served as the Senior Under Officer, NCC, India (PM Rally || YEP - Russia), [JD + SD] of the Army Wing.
 
 I have a keen interest in Machine Learning, Deep Learning, and Data Analytics.
 
